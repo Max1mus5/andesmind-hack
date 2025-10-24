@@ -296,9 +296,7 @@ setup_github_repo() {
 - Documentación técnica completa
 - Scripts de configuración automatizada
 - Docker y docker-compose setup
-- Paleta de colores Comfachocó (verde minimalista)
-
-Co-authored-by: openhands <openhands@all-hands.dev>"
+- Paleta de colores Comfachocó (verde minimalista)"
     
     # Configurar rama principal
     git branch -M main
